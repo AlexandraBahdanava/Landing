@@ -1,0 +1,176 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	float: left;
+	width: 1424px;
+	height: 119px;
+	margin-bottom: 0;
+}
+
+.background-line {
+	background-color: #FFFFEF;
+	width: 1424px;
+	height: 16px;
+	margin-bottom: 0;
+}
+
+.menu{
+	float: left;
+	width: 556.56px;
+	height: 98px;
+	margin-top: 35px;
+	margin-left: 64px;
+	letter-spacing: 1.5px;	
+	align-content: center;
+}
+
+.menu span a {
+		font-size: 16px;
+		text-transform: uppercase;
+}
+
+.shop {
+	display: inline-block;
+	width: 106px;
+	height: 58.52px;
+}
+
+.shop img {
+	padding-bottom: 5px;
+	padding-left: 2px;
+}
+
+.style-quiz {
+	display: inline-block;
+	width: 133.5px;
+	height: 26px;
+}
+
+.about-us {
+	display: inline-block;
+	width: 123px;
+	height: 26px;
+}
+
+.stories {
+	display: inline-block;
+	width: 129.61px;
+	height: 58.52px;
+}
+
+.stories img {
+	padding-bottom: 4.5px;
+	padding-left: 2px;
+}
+
+.logo {
+	float: left;
+	margin-top: 32px;
+	margin-left: 46px;
+}
+
+.logo img {
+	width: 90px;
+}
+
+.icons {
+	float: left;
+	align-content: right;
+	margin-left: 459.5px;
+	margin-top: 30px;
+}
+
+.icons div {
+	float: left;
+}
+
+.human {
+	width: 52px;
+}
+
+.search {
+	width: 52px;
+}
+.basket img {
+	width: 37.5px;
+	height: 41px;
+}
+
+main {
+	float: left;
+	width: 1424px;
+	height: 5454.7px;
+	padding:0;
+}
+
+.top-of-page {
+	width: 1360px;
+	height: 732px;
+	margin-left: 32px;
+	padding-top: 0.1px;
+	background-color: #FFFFEF;
+}
+
+.image-top-of-page {
+	background-image: url(images/top-of-page.png);
+	width: 1328px;
+	height: 700px;
+	margin-left: 16px;
+	margin-top: 15.5px;
+}
+
+.content-top-of-page {
+	width: 1200px;
+	height: 570px;
+	padding-left: 66px;
+	padding-top: 64.5px;
+	color: rgba(86, 89, 61, 1);
+}
+
+.content-top-of-page h3 {
+	padding-top: 378.5px;
+	text-align: right;
+	font-size: 18px;
+	letter-spacing: 1.8px;	
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+.content-top-of-page p {
+	margin-top: 14.5px;
+	margin-right: 2px;
+	margin-bottom: 0;
+	text-align: right;
+	font-size: 45px;
+	text-transform: capitalize;	
+}
+
+.shop-now {
+	width: 154px;
+	height: 56px;
+	font-size: 16px;
+	margin-top: 28.7px;
+	margin-right: 2px;	
+	background-color: rgba(86, 89, 61, 1);
+	color: white;
+	letter-spacing: 0.7px;	
+	text-transform: uppercase;
+	border: none;
+	float: right;
+}
+
+a {
+	text-decoration: none;
+	color: rgba(86, 89, 61, 1);
+}
+
+
+.text-greeting p {
+	font-size: 57px;
+}
+
+footer {
+	float: left;
+}
