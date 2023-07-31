@@ -211,6 +211,36 @@ a {
 	letter-spacing: 1.7px;	
 }
 
+.product-preview {
+	width: 1360px;
+	height: 705px;
+	margin-left: 32px;	
+	padding-top: 35px;
+	text-align: center;
+	background-color: #FFFFEF;
+}
+
+.product-preview h2 {
+	margin-top: 31px;
+}
+
+.product-preview div {
+	margin-top: 62px;
+	margin-left: 32px;
+	float: left;
+}
+
+.text-promo{
+	margin-top: 11px;
+	margin-bottom: 0;	
+}
+
+.price {
+	letter-spacing: 1.7px;	
+	margin-top: 12px;
+}
+
+
 footer {
 	float: left;
 	width: 1424px;
