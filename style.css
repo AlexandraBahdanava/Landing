@@ -337,7 +337,7 @@ a {
 
 .image-examples-of-using-second {
 	margin: 0;
-	padding-left: 42px;
+	padding-left: 43px;
 	padding-top: 64px;
 }
 
@@ -402,9 +402,36 @@ a {
 	margin-left: 15px;
 	background-color: rgba(86, 89, 61, 1);
 	color: white;
-	letter-spacing: 0.6px;	
+	letter-spacing: 0.7px;	
 	text-transform: uppercase;
 	border: none;
+}
+
+.moments {
+	width: 1360px;
+	height: 520px;
+	margin-left: 32px;
+	margin-top: 40px;
+	background-color: #FFFFEF;
+	text-align: center;
+}
+
+.moments p {
+	font-size: 25px;
+	line-height: 32.4px;
+	padding-top: 65px;
+}
+
+.content-moments{
+	padding-top: 6px;
+	padding-left: 6px;
+}
+
+.moments img {
+	padding-top: 8px;
+	padding-left: 4px;
+	margin: 0;
+
 }
 
 footer {
