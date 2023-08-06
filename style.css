@@ -323,14 +323,12 @@ a {
 	margin-top: 32px;
 }
 
-
 .examples-of-using-second {
 	background-color: #FFFFEF;
 	width: 1360px;
 	height: 1014px;
 	margin-left: 32px;
-	margin-top: 24px;
-	
+	margin-top: 24px;	
 }
 
 .examples-of-using-second div {
@@ -364,6 +362,49 @@ a {
 	width: 344px;
 	margin-left: 79px;
 	margin-top: 32px;
+}
+
+
+.subscribe {
+	background-color: #FFFFEF;
+	text-align: center;
+	width: 1360px;
+	height: 279px;
+	margin-left: 32px;
+	margin-top: 40px;
+}
+
+.text-title-in-subscribe{
+	margin: 0;
+	font-size: 28px;
+	padding-top: 66px;
+}
+
+.text-in-subscribe {
+	font-size: 17px;
+	line-height: 28.8px;
+	padding-top: 2px;
+}
+
+.subscribe hr {
+	width: 339px;
+	margin-left: 430px;
+	margin-top: 51px;
+	float: left;
+}
+
+.subscribe button {
+	float: left;
+	width: 144px;
+	height: 22px;
+	font-size: 15px;
+	margin-top: 31px;
+	margin-left: 15px;
+	background-color: rgba(86, 89, 61, 1);
+	color: white;
+	letter-spacing: 0.6px;	
+	text-transform: uppercase;
+	border: none;
 }
 
 footer {
