@@ -275,6 +275,56 @@ a {
 	font-size: 50px;
 }
 
+.examples-of-using-first {
+	background-color: #FFFFEF;
+	width: 1360px;
+	height: 716px;
+	margin-left: 32px;
+	margin-top: 24px;
+	padding-top: 17px;
+}
+
+.examples-of-using-first div {
+	float: left;
+}
+
+.image-examples-of-using-first {
+	margin: 0;
+	padding-left: 32px;
+	padding-top: 47px;
+}
+
+.image-examples-of-using-first img {
+	width: 743px;
+	height: 618px;
+}
+
+.text-examples-of-using-first {
+	width: 500px;
+	text-align: center;
+	padding-left: 42px;
+}
+
+.text-title {
+	margin: 0;
+	font-size: 29px;
+	padding-top: 112px;
+	padding-bottom: 27px;
+}
+
+.text-examples-of-using-first hr {
+	width: 40px;
+}
+
+.text-in-examples-of-using-first {
+	font-size: 20px;
+	line-height: 32.4px;
+	
+	width: 360px;
+	margin-left: 71px;
+	margin-top: 32px;
+}
+
 footer {
 	float: left;
 	width: 1424px;
