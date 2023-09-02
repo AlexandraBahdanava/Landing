@@ -1,6 +1,7 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	color: rgba(86, 89, 61, 1);
+	margin-left: 0;
 }
 
 header {
@@ -8,6 +9,7 @@ header {
 	width: 1424px;
 	height: 119px;
 	margin-bottom: 0;
+	padding-left: 8px;
 }
 
 .background-line {
@@ -104,6 +106,7 @@ main {
 	width: 1424px;
 	height: 5454.7px;
 	padding:0;
+	padding-left: 8px;
 }
 
 .top-of-page {
@@ -434,12 +437,140 @@ a {
 }
 
 footer {
+	float: left;
 	width: 1440px;
 	height: 382px;
-	padding-top: 70px;
-	/*background-color: rgba(86, 89, 61, 1);*/
+	margin-left: 0;
+	margin-top: 70px;
+	padding: 0;
+	background-color: rgba(86, 89, 61, 1);
+	color: white;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
 }
 
 footer div {
 	float: right;
+	margin: 0;
+	padding: 0;
+}
+
+.link-messengers{
+	width: 120px;
+	height: 22px;
+	margin-top: 71px;
+	margin-right: 29px;
+	text-align: center;
+}
+
+.link-messengers a img{
+	margin-left: 15px;
+}
+
+.help-buttons{
+	text-transform: uppercase;
+	padding-top: 63px;
+	padding-right: 371px;
+}
+
+.help-buttons hr {
+	width: 41px;
+	margin: 0;
+	margin-top: 16px;	
+}
+
+.help-buttons p {
+	margin: 0;
+	letter-spacing: 1.58px;
+}
+
+.faq {
+	padding-top: 26px;
+}
+
+.contact {
+	padding-top: 22px;
+}
+
+.terms {
+	padding-top: 22px;
+}
+
+.trade {
+	padding-top: 22px;
+}
+
+.explore-buttons{
+	text-transform: uppercase;
+	padding-top: 63px;
+	padding-right: 250px;
+}
+
+.explore-buttons hr {
+	width: 41px;
+	margin: 0;
+	margin-top: 16px;	
+}
+
+.explore-buttons p{
+	margin: 0;
+	letter-spacing: 1.58px;
+}
+
+.shops {
+	padding-top: 28px;
+}
+
+.shops img {
+	margin-left: 4px;
+	margin-bottom: 1px;
+}
+
+.style {
+	padding-top: 24px;
+}
+
+.about {
+	padding-top: 22px;
+}
+
+.storie {
+	padding-top: 22px;
+}
+
+.storie img {
+	margin-left: 3px;
+}
+
+.contacts{
+	padding-top: 52px;
+	padding-right: 33px;
+	width: 352px;
+}
+
+.contacts p {
+	margin-bottom: 18px;
+}
+.fullname {
+	margin-left: 7px;
+	font-size: 15px;
+}
+
+.contacts hr {
+	width: 41px;
+	margin: 0;	
+}
+
+.email {
+	margin-top: 17px;
+	width: 260px;
+	line-height: 25.2px;
+}
+
+.email a {
+	text-transform: none;
 }
