@@ -585,7 +585,7 @@ body{
 
  header {
 	width: 720px;
-	height: 142px;
+	height: 127px;
 	margin: 0;
 	padding: 0;
 }
@@ -661,347 +661,237 @@ body{
 }
 
 main {
-	float: left;
-	width: 1424px;
-	height: 5454.7px;
-	padding:0;
-	padding-left: 8px;
+	width: 720px;
+	height: 7207px;
+	padding-left: 0px;
 }
 
 .top-of-page {
-	width: 1360px;
-	height: 732px;
-	margin-left: 32px;
+	width: 680px;
+	height: 586px;
+	margin-left: 20px;
 	padding-top: 0.1px;
-	background-color: #FFFFEF;
+	padding-bottom: 15px;
 }
 
 .image-top-of-page {
-	background-image: url(images/top-of-page.png);
-	width: 1328px;
-	height: 700px;
-	margin-left: 16px;
-	margin-top: 15.5px;
+	background-image: url(images/top-of-page-tablet.png);
+	width: 665px;
+	height: 570px;
+	margin-left: 7px;
+	margin-top: 0px;
 }
 
 .content-top-of-page {
-	width: 1200px;
-	height: 570px;
-	padding-left: 66px;
-	padding-top: 64.5px;
+	width: 600px;
+	height: 500px;
+	padding: 0;
 }
 
 .content-top-of-page h3 {
-	padding-top: 378.5px;
-	text-align: right;
-	font-size: 18px;
-	letter-spacing: 1.8px;	
-	text-transform: uppercase;
-	margin-bottom: 0;
+	padding-top: 327px;
+	padding-left: 58px;
+	text-align: center;
+	margin-top: 15px;
 }
 
 .content-top-of-page p {
-	margin-top: 14.5px;
-	margin-right: 2px;
-	margin-bottom: 0;
-	text-align: right;
-	font-size: 45px;
-	text-transform: capitalize;	
+	margin-top: 6px;
+	margin-left: 70px;
+	text-align: center;
 }
 
 .shop-now {
-	width: 154px;
-	height: 56px;
-	font-size: 16px;
-	margin-top: 28.7px;
-	margin-right: 2px;	
-	background-color: rgba(86, 89, 61, 1);
-	color: white;
-	letter-spacing: 0.7px;	
-	text-transform: uppercase;
-	border: none;
-	float: right;
-}
-
-a {
-	text-decoration: none;
-	color: rgba(86, 89, 61, 1);
+	margin-top: 47px;
+	margin-left: 243px;	
+	float: none;
 }
 
 .text-greeting {
-	width: 1200px;
-	height: 370px;
-	padding-left: 112px;
+	width: 670px;
+	height: 676px;
+	padding-left: 19px;
 	padding-bottom: 70px;
-	padding-top: 35px;
-	text-align: center;
-}
-
-.text-greeting p {
-	line-height: 81px;
-	font-size: 57px;
-	margin-bottom: 0;
+	padding-top: 4px;
 }
 
 .shop-all {
-	float: left;
-	width: 102.8px;
-	height: 22px;
 	margin-right: 71px;
-	margin-top: 27px;
-	margin-left: 446px;
-	border-bottom: 2px solid rgba(86, 89, 61, 1);
-}
-
-.shop-all a {
-	margin: 0;
-	letter-spacing: 1.7px;	
-}
+	margin-top: 78px;
+	margin-left: 187px;
+	}
 
 .read-stories {
-	float: left;
-	width: 135.2px;
-	height: 22px;
-	margin-top: 27px;
-	border-bottom: 2px solid rgba(86, 89, 61, 1);
-
-}
-
-.read-stories a {
-	float: left;
-	margin: 0;
-	letter-spacing: 1.7px;	
+	margin-top: 78px;
 }
 
 .product-preview {
-	width: 1360px;
-	height: 705px;
-	margin-left: 32px;	
-	padding-top: 35px;
-	text-align: center;
-	background-color: #FFFFEF;
-}
-
-.product-preview h2 {
-	margin-top: 31px;
-}
-
-.product-preview div {
-	margin-top: 62px;
-	margin-left: 32px;
-	float: left;
-}
-
-.text-promo{
-	margin-top: 11px;
-	margin-bottom: 0;	
-}
-
-.price {
-	letter-spacing: 1.7px;	
-	margin-top: 12px;
-}
-
-.tagline {
-	text-align: center;
-	background-color: #FFFFEF;
-	width: 1360px;
-	height: 716px;
-	margin-left: 32px;
-	margin-top: 22px;
+	width: 666px;
+	height: 1583px;
+	margin-left: 24px;	
 	padding-top: 17px;
-}
-
-.content-tagline {
-	background-image: url(images/tagline.png);
-	width: 1328px;
-	height: 700px;
-	margin-left: 16px;
-	margin-top: 0;
-}
-
-.content-tagline h3 {
-	margin: 0;
-	padding-top: 63px;
-	padding-left: 1px;
-	text-transform: uppercase;
-	letter-spacing: 1.7px;	
-	font-size: 17px;
-}
-
-.content-tagline p {
-	width: 1093px;
-	margin: 0;
-	padding-top: 11.5px;
-	padding-left: 118px;
-	font-size: 50px;
-}
-
-.examples-of-using-first {
-	background-color: #FFFFEF;
-	width: 1360px;
-	height: 746px;
-	margin-left: 32px;
-	margin-top: 24px;
-}
-
-.examples-of-using-first div {
-	float: left;
-}
-
-.image-examples-of-using-first {
-	margin: 0;
-	padding-left: 32px;
-	padding-top: 64px;
-}
-
-.image-examples-of-using-first img {
-	width: 743px;
-	height: 618px;
-}
-
-.text-examples-of-using-first {
-	width: 500px;
-	text-align: center;
-	padding-left: 42px;
-}
-
-.text-title {
-	margin: 0;
-	font-size: 29px;
-	padding-top: 129px;
-	padding-bottom: 27px;
-}
-
-.text-examples-of-using-first hr {
-	width: 40px;
-}
-
-.text-in-examples-of-using-first {
-	font-size: 20px;
-	line-height: 32.4px;
-	width: 360px;
-	margin-left: 71px;
-	margin-top: 32px;
-}
-
-.examples-of-using-second {
-	background-color: #FFFFEF;
-	width: 1360px;
-	height: 1014px;
-	margin-left: 32px;
-	margin-top: 24px;	
-}
-
-.examples-of-using-second div {
-	float: left;
-}
-
-.image-examples-of-using-second {
-	margin: 0;
-	padding-left: 43px;
-	padding-top: 64px;
-}
-
-.image-examples-of-using-second img {
-	width: 743px;
-	height: 885px;
-}
-
-.text-examples-of-using-second {
-	width: 500px;
-	text-align: center;
-	padding-left: 42px;
-}
-
-.text-examples-of-using-second hr {
-	width: 40px;
-}
-
-.text-in-examples-of-using-second {
-	font-size: 20px;
-	line-height: 32.4px;
-	width: 344px;
-	margin-left: 79px;
-	margin-top: 32px;
-}
-
-
-.subscribe {
-	background-color: #FFFFEF;
-	text-align: center;
-	width: 1360px;
-	height: 279px;
-	margin-left: 32px;
-	margin-top: 40px;
-}
-
-.text-title-in-subscribe{
-	margin: 0;
-	font-size: 28px;
-	padding-top: 66px;
-}
-
-.text-in-subscribe {
-	font-size: 17px;
-	line-height: 28.8px;
-	padding-top: 2px;
-}
-
-.subscribe hr {
-	width: 339px;
-	margin-left: 430px;
-	margin-top: 51px;
-	float: left;
-}
-
-.subscribe button {
-	float: left;
-	width: 144px;
-	height: 22px;
-	font-size: 15px;
-	margin-top: 31px;
-	margin-left: 15px;
-	background-color: rgba(86, 89, 61, 1);
-	color: white;
-	letter-spacing: 0.7px;	
-	text-transform: uppercase;
-	border: none;
-}
-
-.moments {
-	width: 1360px;
-	height: 520px;
-	margin-left: 32px;
-	margin-top: 40px;
-	background-color: #FFFFEF;
-	text-align: center;
-}
-
-.moments p {
-	font-size: 25px;
-	line-height: 32.4px;
-	padding-top: 65px;
-}
-
-.content-moments{
-	padding-top: 6px;
 	padding-left: 6px;
 }
 
-.moments img {
+.product-preview h2 {
+	margin-top: 0px;
+	margin-left: 10px;
+	font-weight: normal;
+}
+
+.product-preview div {
+	margin-top: 22.5px;
+	margin-left: 24px;
+	margin-bottom: 36px;
+	float: none;
+}
+
+.price {
+	margin-left: 2px;
+}
+
+.tagline {
+	width: 681px;
+	height: 596px;
+	margin-left: 20px;
+	margin-top: 100px;
+	padding-top: 5px;
+}
+
+.content-tagline {
+	background-image: url(images/tagline-tablet.png);
+	width: 660px;
+	height: 570px;
+	margin-left: 9.5px;
+	margin-top: 10px;
+}
+
+.content-tagline h3 {
+	padding-top: 49px;
+	font-weight: normal;
+}
+
+.content-tagline p {
+	width: 607px;
+	padding-top: 17.5px;
+	padding-left: 27px;
+}
+
+.examples-of-using-first {
+	width: 680px;
+	height: 934px;
+	margin-left: 20px;
+	margin-top: 99px;
+}
+
+.examples-of-using-first div {
+	float: none;
+}
+
+.image-examples-of-using-first {
+	padding-left: 15px;
+	padding-top: 15px;
+	height: 548px;
+}
+
+.image-examples-of-using-first img {
+	width: 650px;
+	height: 540px;
+}
+
+.text-examples-of-using-first {
+	width: 650px;
+	padding-left: 9px;
+}
+
+.text-title {
+	padding-top: 10px;
+}
+
+.text-in-examples-of-using-first {
+	width: 347px;
+	margin-left: 152px;
+	margin-top: 33px;
+}
+
+.examples-of-using-second {
+	width: 680px;
+	height: 1176px;
+	margin-left: 20px;
+	margin-top: 66px;
+	display: flex;
+	flex-flow: wrap;
+}
+
+.examples-of-using-second div {
+	float: none;
+}
+
+.image-examples-of-using-second {
+	order: 0;
+	padding-left: 15px;
+	padding-top: 15px;
+	height: 774px;
+}
+
+.image-examples-of-using-second img {
+	width: 650px;
+	height: 774px;
+}
+
+.text-examples-of-using-second {
+	order: 1;
+	width: 650px;
+	padding-left: 16px;
+	padding-top: 0px;
+}
+
+.text-in-examples-of-using-second {
+	width: 344px;
+	margin-left: 153.5px;
+	margin-top: 30.5px;
+}
+
+.subscribe {
+	width: 680px;
+	height: 279px;
+	margin-left: 23px;
+	margin-top: 74px;
+}
+
+.subscribe hr {
+	margin-left: 90px;
+}
+
+.moments {
+	width: 680px;
+	height: 800px;
+	margin-left: 20px;
+	margin-top: 78px;
+}
+
+.moments p {
+	padding-top: 24px;
+	margin-bottom: 12px;
+}
+
+.content-moments{
 	padding-top: 8px;
+	padding-left: 0px;
+	padding-right: 2px;
+	margin-left: 0;
+}
+
+.moments img {
+	padding-top: 5px;
 	padding-left: 4px;
-	margin: 0;
 }
 
 footer {
 	float: left;
-	width: 1440px;
-	height: 382px;
-	margin-left: 0;
-	margin-top: 70px;
-	padding: 0;
+	width: 720px;
+	height: 224px;
+	margin-top: 0px;
 	background-color: rgba(86, 89, 61, 1);
 	color: white;
 }
