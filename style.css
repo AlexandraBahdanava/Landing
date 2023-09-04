@@ -13,6 +13,7 @@ header {
 
 .burger-menu{
 	display: none;
+	cursor: pointer;
 }
 
 .background-line {
@@ -35,6 +36,11 @@ header {
 .menu span a {
 	font-size: 16px;
 	text-transform: uppercase;
+	cursor: pointer;
+}
+
+.menu span a:hover {
+	color: black;
 }
 
 .shop {
@@ -164,6 +170,8 @@ main {
 	text-transform: uppercase;
 	border: none;
 	float: right;
+	cursor: pointer;
+
 }
 
 a {
@@ -196,6 +204,10 @@ a {
 	border-bottom: 2px solid rgba(86, 89, 61, 1);
 }
 
+.shop-all:hover{
+	color: black;
+}
+
 .shop-all a {
 	margin: 0;
 	letter-spacing: 1.7px;	
@@ -207,7 +219,10 @@ a {
 	height: 22px;
 	margin-top: 27px;
 	border-bottom: 2px solid rgba(86, 89, 61, 1);
+}
 
+.read-stories:hover{
+	color: black;
 }
 
 .read-stories a {
@@ -410,7 +425,9 @@ a {
 	letter-spacing: 0.7px;	
 	text-transform: uppercase;
 	border: none;
+	cursor: pointer;
 }
+
 
 .moments {
 	width: 1360px;
@@ -735,18 +752,20 @@ main {
 	margin-left: 24px;	
 	padding-top: 17px;
 	padding-left: 6px;
+	display: grid;
 }
 
 .product-preview h2 {
 	margin-top: 0px;
+	margin-bottom: 16px;
 	margin-left: 10px;
 	font-weight: normal;
 }
 
 .product-preview div {
-	margin-top: 22.5px;
+	margin-top: 0px;
 	margin-left: 24px;
-	margin-bottom: 36px;
+	margin-bottom: 12px;
 	float: none;
 }
 
@@ -881,14 +900,16 @@ main {
 
 .content-moments{
 	padding-top: 8px;
-	padding-left: 0px;
+	padding-left: 16px;
 	padding-right: 2px;
 	margin-left: 0;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
 }
 
 .moments img {
 	padding-top: 5px;
-	padding-left: 4px;
+	padding-left: 0px;
 }
 
 footer {
@@ -1125,20 +1146,24 @@ main {
 .product-preview h2 {
 	margin-top: 1px;
 	margin-left: 1px;
-	margin-bottom: 10px;
+	margin-bottom: 9px;
 	font-size: 22px;
 }
 
 .product-preview div {
 	margin-top: 0px;
-	margin-left: 2px;
-	margin-bottom: 30px;
+	margin-left: 0px;
+	margin-bottom: 10px;
 	float: none;
 }
 
 .product-preview div img {
 	width: 200px;
 	margin-bottom: 12px;
+}
+
+.text-promo {
+	margin-top: 6px;
 }
 
 .price {
@@ -1309,12 +1334,13 @@ main {
 	padding-left: 0px;
 	padding-right: 2px;
 	margin-left: 0;
+	grid-template-columns: repeat(1, 1fr);
 }
 
 .moments img {
 	padding-top: 5px;
-	padding-left: 6px;
-	padding-bottom: 10.5px;
+	padding-left: 11px;
+	padding-bottom: 15px;
 	width: 280px;
 	height: 320px;
 }
